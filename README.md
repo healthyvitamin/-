@@ -1,5 +1,4 @@
-# -
-
+# 大三專題
 train.py是訓練
 
 對打則是要開啟BlueStacks 下載網址:https://www.bluestacks.com/tw/index.html?utm_campaign=aw-ded-Competitors-zh_TW-ww-s-1-cpc&gclid=CjwKCAjwmrn5BRB2EiwAZgL9on84R8h96-PAOne2EUVy38Me4zniXBGCofJwLDt864JiKyKIvEYQyRoCGaoQAvD_BwE

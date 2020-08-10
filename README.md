@@ -1,19 +1,19 @@
-# ¤j¤T±MÃD
-train.py¬O°V½m
+# å¤§ä¸‰å°ˆé¡Œ
+train.pyæ˜¯è¨“ç·´
 
-¹ï¥´«h¬O­n¶}±ÒBlueStacks ¤U¸üºô§}:https://www.bluestacks.com/tw/index.html?utm_campaign=aw-ded-Competitors-zh_TW-ww-s-1-cpc&gclid=CjwKCAjwmrn5BRB2EiwAZgL9on84R8h96-PAOne2EUVy38Me4zniXBGCofJwLDt864JiKyKIvEYQyRoCGaoQAvD_BwE
+å°æ‰“å‰‡æ˜¯è¦é–‹å•ŸBlueStacks ä¸‹è¼‰ç¶²å€:https://www.bluestacks.com/tw/index.html?utm_campaign=aw-ded-Competitors-zh_TW-ww-s-1-cpc&gclid=CjwKCAjwmrn5BRB2EiwAZgL9on84R8h96-PAOne2EUVy38Me4zniXBGCofJwLDt864JiKyKIvEYQyRoCGaoQAvD_BwE
 
-±µµÛÀH«K¤U¸ü¥ô¤@­Ó¶Â¥Õ´Ñµ{¦¡ ¶}±Ò¹CÀ¸«á¹B¦æchecker.py ¨Ã¥B¦bchecker_model.pyªºwin32gui­t³d§ì¨ú´Ñ½Lªº³¡¤À 
-½Õ¾ãx¡By®y¼Ğª½¨ì¥i¥H­è¦nÂ^¨ú8*8´Ñ½L¤j¤p
+æ¥è‘—ä¸‹è¼‰ä»»ä¸€å€‹é»‘ç™½æ£‹æ‰‹æ©ŸéŠæˆ² é–‹å•ŸéŠæˆ²å¾Œé‹è¡Œchecker.py ä¸¦ä¸”åœ¨checker_model.pyçš„win32guiè² è²¬æŠ“å–æ£‹ç›¤çš„éƒ¨åˆ†(æœ‰å…©å€‹éƒ¨åˆ†ï¼Œè«‹ä½¿ç”¨crtl+Fæœå°‹win32)
+èª¿æ•´xã€yåº§æ¨™ç›´åˆ°å¯ä»¥å‰›å¥½æ“·å–8*8æ£‹ç›¤å¤§å°
 
 
-µ{¦¡½X¬[ºc¥D­n¨Ó¦Û: https://juejin.im/entry/6844903569817239565
+ç¨‹å¼ç¢¼æ¶æ§‹ä¸»è¦ä¾†è‡ª: https://juejin.im/entry/6844903569817239565
 
-¾÷¾¹¾Ç²ß²z½×¾Ç²ß¦Û§õ¥°¼İ¦Ñ®vªº±Ğµ{: https://youtu.be/CXgbekl66jc
+æ©Ÿå™¨å­¸ç¿’ç†è«–å­¸ç¿’è‡ªæå¼˜æ¯…è€å¸«çš„æ•™ç¨‹: https://youtu.be/CXgbekl66jc
 
-¼v¹³¿ëÃÑ¥H¤ÎGUI(checkerµ{¦¡)¾Ç²ß¦Û¦¹®Ñ: https://www.books.com.tw/products/0010768933
+å½±åƒè¾¨è­˜ä»¥åŠGUI(checkerç¨‹å¼)å­¸ç¿’è‡ªæ­¤æ›¸: https://www.books.com.tw/products/0010768933
 
-¨ä¾lªº:
-²ö¤Zpython°òÂ¦¡B¯«¸gºô¸ôµ{¦¡°òÂ¦: https://mofanpy.com/
+å…¶é¤˜çš„:
+è«å‡¡pythonåŸºç¤ã€ç¥ç¶“ç¶²è·¯ç¨‹å¼åŸºç¤: https://mofanpy.com/
 
-AlphaGo ³ò´Ñºtºâªk­ì²z¸ÑªR: https://youtu.be/pgX4JSv4J70
+AlphaGo åœæ£‹æ¼”ç®—æ³•åŸç†è§£æ: https://youtu.be/pgX4JSv4J70

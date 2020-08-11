@@ -1,6 +1,8 @@
 # 大三專題
-train.py是訓練
 
+tensorflow請注意只能在1.1X版本下執行，GPU版本也是。
+
+train.py是訓練，
 對打則是要開啟BlueStacks 下載網址:https://www.bluestacks.com/tw/index.html?utm_campaign=aw-ded-Competitors-zh_TW-ww-s-1-cpc&gclid=CjwKCAjwmrn5BRB2EiwAZgL9on84R8h96-PAOne2EUVy38Me4zniXBGCofJwLDt864JiKyKIvEYQyRoCGaoQAvD_BwE
 
 接著下載任一個黑白棋手機遊戲 開啟遊戲後運行checker.py 並且在checker_model.py的win32gui負責抓取棋盤的部分(有兩個部分，請使用crtl+F搜尋win32)
@@ -17,3 +19,4 @@ train.py是訓練
 莫凡python基礎、神經網路程式基礎: https://mofanpy.com/
 
 AlphaGo 圍棋演算法原理解析: https://youtu.be/pgX4JSv4J70
+

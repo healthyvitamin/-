@@ -7,7 +7,7 @@ train.py是訓練
 調整x、y座標直到可以剛好擷取8*8棋盤大小
 
 
-程式碼架構主要來自: https://juejin.im/entry/6844903569817239565
+程式碼架構主要學習自: https://juejin.im/entry/6844903569817239565
 
 機器學習理論學習自李弘毅老師的教程: https://youtu.be/CXgbekl66jc
 
